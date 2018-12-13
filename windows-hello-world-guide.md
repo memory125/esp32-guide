@@ -37,12 +37,12 @@ The sample is copied from [esp_idf](https://github.com/espressif/esp-idf), [hell
   ![make 4](/windows/6.png)
   * Save the configuration.
   ![make 5](/windows/8.png)
-  *  Compiling & Flash.
-  Compiling...
+# Compiling & Flash
+ * Compiling...
   ![Compiling](/windows/9.png)
-  Flashing image to esp32 board.
+ * Flashing image to esp32 board.
   ![Flashing](/windows/10.png)
-  * Run the sample `hello world`.
+ * Run the sample `hello world`.
   ![Running hello world](/windows/11.png)
   
   # References:
