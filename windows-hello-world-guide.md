@@ -45,10 +45,10 @@ The sample is copied from [esp_idf](https://github.com/espressif/esp-idf), [hell
   * Run the sample `hello world`.
   ![Running hello world](/windows/11.png)
   
-  References:
-  1. [esp guide](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html).
-  2. [esp windows setup](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/windows-setup.html).
-  3. [esp_idf](https://github.com/espressif/esp-idf).
+  # References:
+  * [esp guide](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html).
+  * [esp windows setup](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/windows-setup.html).
+  * [esp_idf](https://github.com/espressif/esp-idf).
   
   
   
