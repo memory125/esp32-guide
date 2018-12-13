@@ -34,6 +34,13 @@ Here is the steps on ESP32 guide developing on Windows.
   ![make 4](6.png)
   * Save the configuration.
   ![make 5](8.png)
+  *  Compiling & Flash.
+  Compiling...
+  ![Compiling](9.png)
+  Flashing image to esp32 board.
+  ![Flashing](10.png)
+  * Run the sample `hello world`.
+  ![Running hello world](11.png)
   
   
   
