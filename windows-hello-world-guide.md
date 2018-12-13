@@ -1,5 +1,7 @@
-# ESP32 Development Guide: Windows Platform
+# ESP32 Development Guide: Windows 
 Here is the steps on ESP32 guide developing on Windows.
+
+# Hello World
 
 ## Setup Environment
 * Download the [Toolchain](https://dl.espressif.com/dl/esp32_win32_msys2_environment_and_toolchain-20181001.zip) and then unzip it to `C:\`.
