@@ -24,11 +24,16 @@ The sample is from [esp azure](https://github.com/espressif/esp-azure).
   ```
   * Open `C:\msys32\mingw32.exe`, not `msys2.exe`. Otherwise it will prompt python command cann't be found.
   ![mingw32.exe](/windows/3.png)
-* Clone the [esp azure](https://github.com/espressif/esp-azure).
+* Clone the [esp azure](https://github.com/espressif/esp-azure) via the following command.
+  ```
+  git clone --recursive https://github.com/espressif/esp-azure.git
+  ```
   ```
   Note:
   Please don't forget the `--recursive` parameter while cloning source code.
   ```
+  `Start to clone...`
+  ![mingw32.exe](/windows/12.png)
   `Cloning...`
   ![mingw32.exe](/windows/13.png)
   `Completed clone`
