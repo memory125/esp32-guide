@@ -12,7 +12,7 @@ The sample is copied from [esp_idf](https://github.com/espressif/esp-idf), [hell
   * The user profile scripts are contained in `C:/msys32/etc/profile.d/` directory.
   * Create a new script file in C:/msys32/etc/profile.d/ directory. Name it `export_idf_path.sh`.
   ![export_idf_path](/windows/2.png)
-  ** Identify the path to ESP-IDF directory. It is specific to your system configuration and may look something like 'C:\msys32\home\user-name\esp\esp-idf'.
+  * Identify the path to ESP-IDF directory. It is specific to your system configuration and may look something like 'C:\msys32\home\user-name\esp\esp-idf'.
   * Add the export command to the script file, refer to the following case.
     ```
     export IDF_PATH="C:/msys32/home/user-name/esp/esp-idf"
