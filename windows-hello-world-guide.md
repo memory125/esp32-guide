@@ -2,6 +2,7 @@
 Here is the steps on ESP32 guide developing on Windows.
 
 # Hello World
+The sample is copied from [esp_idf](https://github.com/espressif/esp-idf), [hello world](https://github.com/espressif/esp-idf/tree/23b6d40/examples/get-started/hello_world) sample is basic and simple sample to learn esp32 development.
 
 ## Setup Environment
 * Download the [Toolchain](https://dl.espressif.com/dl/esp32_win32_msys2_environment_and_toolchain-20181001.zip) and then unzip it to `C:\`.
@@ -43,6 +44,11 @@ Here is the steps on ESP32 guide developing on Windows.
   ![Flashing](/windows/10.png)
   * Run the sample `hello world`.
   ![Running hello world](/windows/11.png)
+  
+  References:
+  1. [esp guide](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html).
+  2. [esp windows setup](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/windows-setup.html).
+  3. [esp_idf](https://github.com/espressif/esp-idf).
   
   
   
