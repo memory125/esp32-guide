@@ -69,7 +69,7 @@ The sample is from [esp azure](https://github.com/espressif/esp-azure).
   make monitor
   ```
   
-  # References:
+  # References
   * [esp guide](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html).
   * [esp windows setup](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/windows-setup.html).
   * [esp_azure](https://github.com/espressif/esp-azure).
